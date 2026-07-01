@@ -11,6 +11,7 @@
   },
   "668922515": {
     "name": "Редькин Пётр",
-    "column_id": 6
+    "column_id": 6,
+    "access_granted": true
   }
 }
