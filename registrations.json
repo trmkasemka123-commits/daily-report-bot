@@ -24,6 +24,7 @@
   },
   "6997213411": {
     "name": "Селиванов Артемий",
-    "column_id": 4
+    "column_id": 4,
+    "access_granted": true
   }
 }
